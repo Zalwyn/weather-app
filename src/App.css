@@ -1,0 +1,8 @@
+body{
+  width: 100%;
+  margin: 0;
+  background-image: url(../public/bg-weather.jpg)
+}
+*{
+  box-sizing: border-box;
+}
